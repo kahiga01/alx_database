@@ -1,1 +1,1 @@
-# alx_database
+SQL (Structured Query Language) is a domain-specific programming language used for managing and manipulating relational databases. It provides a standardized way to interact with databases, enabling users to store, retrieve, update, and manage data efficiently
