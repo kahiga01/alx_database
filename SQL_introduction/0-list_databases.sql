@@ -1,7 +1,5 @@
--- Script that shows all databases
-
--- Connect to MySQL server
-mysql -u your_username -p
+-- Script to list all databases on MySQL server.
 
 -- SQL query to list all databases
 SHOW DATABASES;
+
